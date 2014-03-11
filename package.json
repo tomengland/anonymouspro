@@ -1,0 +1,12 @@
+{
+    "name": "tomengland.anonymous pro",
+    "title": "Anonymous Pro Font",
+    "description": "Change default font to Anonymous Pro.  You must have Anonymous Pro font installed.",
+    "homepage": "https://github.com/tomengland/anonymouspro",
+    "version": "1.0.0",
+    "author": "Thomas England <tengland808@gmail.com> (http://www.slashtom.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
